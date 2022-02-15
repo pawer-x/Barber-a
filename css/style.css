@@ -1,0 +1,32 @@
+body{
+  background-color: silver;
+}
+
+.flexcontainer {
+  display: flex;
+  height: 400px;
+  background-color: red;
+}
+
+.flexbox{
+  display: flex;
+  background-color: green;
+}
+
+li{
+  list-style-type: none;
+  padding: 12px;
+}
+
+nav{
+  font-weight: bold;
+}
+
+img{
+  z-index:-1; 
+  position: absolute;
+}
+
+.brocha{
+  margin-right: 350px;
+}
